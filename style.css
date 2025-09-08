@@ -20,7 +20,7 @@ body {
 h2, h1, #rowan {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   color: #af0a10 !important;
-  text-align: center;
+  margin: auto;
 }
 a {
   color: #0f0c5d;
