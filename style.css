@@ -1,0 +1,33 @@
+body {
+  background-image: url("/images/background.png");
+  background-size: 620px;
+  background-repeat: repeat;
+  background-attachment: scroll;
+}
+.box {
+  margin: auto;
+  background: #d6daf0; 
+  padding:5px 10px 10px 10px;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+  font-family: sans-serif;
+}
+#mascot {
+  display: block;
+  width: 100px;
+  margin: auto;
+}
+h2, h1, #rowan {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+  color: #af0a10 !important;
+}
+a {
+  color: #0f0c5d;
+}
+a:hover {
+  text-decoration: none;
+}
+a:active {
+  color: red;
+}
