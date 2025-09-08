@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <?php include 'variables.php' ?>
-    <title><?php echo "$domainName"; ?></title>
+    <title>Schlogfarms</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
   </head>
   <body>
     <div class="box">
-      <img src="/images/mascot.png" alt="A mascot for <?php echo "$domainName"; ?>" id="mascot">
-      <h1>soyjaks.blog</h1>
+      <img src="/images/mascot.png" alt="A mascot for Schlogfarms" id="mascot">
+      <h1>suznetsov.github.io/nuschlog/index.php</h1>
       <h2><a href="forums.html" id="rowan">Forums</a></h2>
       <p>
         <!-- Why does your site exist? What is its purpose? -->
